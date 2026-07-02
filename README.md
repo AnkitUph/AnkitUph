@@ -16,40 +16,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - 🌱 Always learning and building new projects
 - 💡 Open to collaboration on AI and software development projects
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Python
-- SQL
-- HTML
-- CSS
-
-### AI & Machine Learning
-- PyTorch
-- TensorFlow
-- Scikit-learn
-- OpenCV
-- Pandas
-- NumPy
-- Matplotlib
-
-### Web Development
-- Django
-- Django REST Framework
-- Bootstrap
-
-### Databases
-- MySQL
-- SQLite
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-
 
 ## 📌 Current Focus
 
