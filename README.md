@@ -50,7 +50,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - VS Code
 - Jupyter Notebook
 
----
 
 ## 📌 Current Focus
 
@@ -58,22 +57,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - 🤖 Generative AI & LLMs
 - 👁️ Computer Vision
 - 📈 Machine Learning Projects
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnkitUph&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitUph&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnkitUph&theme=tokyonight)
-
----
 
 ## 🌐 Connect with Me
 
