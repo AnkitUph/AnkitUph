@@ -25,8 +25,6 @@ I'm passionate about building intelligent applications using Artificial Intellig
 - 📈 Machine Learning Projects
 
 ## 🌐 Connect with Me
-
-- GitHub: https://github.com/AnkitUph
 - LinkedIn: https://www.linkedin.com/in/ankit-upadhayay-64406a2b7
 - Email: uphankit7@hmail.com
 
